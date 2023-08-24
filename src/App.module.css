@@ -1,0 +1,13 @@
+.text {
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+   
+}
+
+.list-container {
+    width: 40%;
+    max-height: 14rem;
+    overflow-y: scroll;
+    max-width: 70%;
+    margin: 50px auto 0;
+}
